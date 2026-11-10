@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Attendly QR attendance logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3679f6"/><stop offset="1" stop-color="#123a83"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="31" fill="url(#g)"/>
+  <path d="M64 17 103 31v29c0 25-16 41-39 52C41 101 25 85 25 60V31z" fill="url(#a)" opacity=".98"/>
+  <path d="M38 43h18v18H38zM42 47h10v10H42zM72 43h18v18H72zM76 47h10v10H76zM38 73h18v18H38zM42 77h10v10H42z" fill="#173d83"/>
+  <path d="M66 72h8v8h-8zM78 72h8v8h-8zM66 84h8v8h-8zM86 84h4v8h-4z" fill="#173d83"/>
+  <path d="m61 70 9 9 18-20" fill="none" stroke="#20b879" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="95" r="13" fill="#20b879" stroke="#fff" stroke-width="4"/>
+  <path d="m90 95 4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
